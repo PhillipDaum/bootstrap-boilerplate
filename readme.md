@@ -1,4 +1,6 @@
 # bootstrap-boilerplate
+
+## This is a template for building other websites for my Bitwise class.
 ## I will be making some cool websites with this
 ### I imagine that this will be updated more and more as I go along, so stay posted!
 
