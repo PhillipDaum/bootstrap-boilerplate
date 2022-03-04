@@ -1,17 +1,22 @@
 # bootstrap-boilerplate
 
-## This is a template for building other websites for my Bitwise class.
-## I will be making some cool websites with this
-### I imagine that this will be updated more and more as I go along, so stay posted!
+## Description
+This is a template for building other websites for my Bitwise class. I will be making some cool websites with this
 
+## Prerequisites
+- I'm not sure what all of the depencancies are yet
+- I will be filling out more about this later
+
+## Contributing
+- This part is coming soon! I think we will be learning some more about this in class today.
 > My filing structures are okay, but I can work on that
 
-### About
+## License
+Also, coming soon!
+
+## Other
 - The teachers are pretty cool. I think we will be using this repository as a template to do other websites.
 - I am excited to start working on my final project. 
-
-### Other
-
 - This part will be filled out more
   - As I learn more best practices  
   - Read more documents
