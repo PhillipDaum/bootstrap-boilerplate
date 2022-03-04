@@ -14,6 +14,9 @@ This is a template for building other websites for my Bitwise class. I will be m
 ## License
 Also, coming soon!
 
+## Contact
+philgdaum@gmail.com
+
 ## Other
 - The teachers are pretty cool. I think we will be using this repository as a template to do other websites.
 - I am excited to start working on my final project. 
