@@ -1,5 +1,4 @@
 # bootstrap-boilerplate
-<<<<<<< HEAD
 
 ## Description
 This is a template for building other websites for my Bitwise class. I will be making some cool websites with this
@@ -25,6 +24,4 @@ philgdaum@gmail.com
   - As I learn more best practices  
   - Read more documents
   **- And go to class more**
-=======
 bitwise class
->>>>>>> main
